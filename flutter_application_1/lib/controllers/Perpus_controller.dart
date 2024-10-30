@@ -6,7 +6,7 @@ class Bukuctrl {
     judul : "Bumi",
     deskripsiPenulis: "Tere Liye",
     penerbit: "Gramedia",
-    stok: 100,
+    stok: 110,
     cover: 'Doksli/image1.png',
   ),
    BukuModel(
